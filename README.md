@@ -42,7 +42,9 @@ Start the application
 ## Tech Stack
 
 **MySQL**: Database for storing employee data.
+
 **Core Python**: Language for handling logics.
+
 **Tkinter**: Python library for building user interfaces.
 
 
@@ -50,4 +52,4 @@ Start the application
 
 ## Screenshots
 
-![App Screenshot](<img src="./screenshot.png">)
+![App Screenshot](https://github.com/PrinceKhadwal/Employee-Management-System-using-Tkinter/blob/main/Screenshot.png)
