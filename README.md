@@ -6,7 +6,7 @@ Employee Management System is an application developed to streamline human resou
 
 - Users can viewed and edited.
 - Admin has access to a list of all employees and can edit their data.
-- 
+
 ## Dashboard
 
 - Displays relevant information for all users.
@@ -29,7 +29,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Employee-Management-System-using-kinter
+  cd Employee-Management-System-using-Tkinter
 ```
 
 Start the application
@@ -41,13 +41,13 @@ Start the application
 
 ## Tech Stack
 
-MySQL: Database for storing employee data.
-Core Python: Language for handling logics.
-Tkinter: Python library for building user interfaces.
+**MySQL**: Database for storing employee data.
+**Core Python**: Language for handling logics.
+**Tkinter**: Python library for building user interfaces.
 
 
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<img src="./screenshot.png">)
